@@ -48,7 +48,7 @@
 <div align="center">
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bsametarman&show_icons=false&locale=en" alt="bsametarman" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsametarman&show_icons=true&locale=en&layout=compact" alt="bsametarman" />
+    <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsametarman&show_icons=true&locale=en&layout=compact" alt="bsametarman" />-->
   </p>
 </div>
 
