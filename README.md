@@ -10,7 +10,12 @@
   </h1>
 </div>
 
-<div id="badges" align="center">
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=bsametarman&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/bsametarman">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,11 +28,10 @@
   </a>
   -->
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bsametarman&style=flat-square&color=blue" alt=""/>
-</div>
 
-<div align="center">
+<br />
+
+<!--<div align="center">
   <h3>Languages and Tools:</h3>
   <p>
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="Csharp" width="40" height="40"/> </a>
@@ -43,16 +47,28 @@
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Css" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html" width="40" height="40"/> </a>
   </p>
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bsametarman&show_icons=false&locale=en" alt="bsametarman" />
+    <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsametarman&show_icons=true&locale=en&layout=compact" alt="bsametarman" />
+  </p>
+</div> -->
+
+<div align="left">
+  <p>
+    <img align="center" src="https://streak-stats.demolab.com/?user=bsametarman&theme=dark" alt="bsametarman" />
     <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsametarman&show_icons=true&locale=en&layout=compact" alt="bsametarman" />-->
   </p>
 </div>
 
-
+<div align="left">
+  <p>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsametarman&theme=github_dark" alt="bsametarman" />
+    <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bsametarman&show_icons=true&locale=en&layout=compact" alt="bsametarman" />-->
+  </p>
+</div>
 
 
 <!--
